@@ -64,7 +64,7 @@ All seven columns are required in the output:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/agentic-ai-task.git
+git clone https://github.com/hamzaummer/agentic-ai-task.git
 cd agentic-ai-task
 ```
 
